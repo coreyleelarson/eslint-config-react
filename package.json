@@ -1,13 +1,12 @@
 {
   "name": "eslint-config-react",
   "version": "1.0.0",
-  "description": "",
+  "author": "Corey Larson <coreyleelarson@gmail.com>",
+  "license": "ISC",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
   },
-  "author": "Corey Larson <coreyleelarson@gmail.com>",
-  "license": "ISC",
   "devDependencies": {
     "@coreyleelarson/eslint-config-default": "^1.3.2",
     "babel-eslint": "^8.2.6",
@@ -16,5 +15,9 @@
     "eslint-plugin-prettier": "^2.6.2",
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
+  },
+  "peerDependencies": {
+    "@coreyleelarson/eslint-config-default": "^1.3.2",
+    "eslint-plugin-react": "^7.11.1"
   }
 }
