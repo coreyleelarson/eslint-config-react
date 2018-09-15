@@ -4,10 +4,11 @@ I created this package for easy reuse in all of my personal projects with all of
 
 ## Install
 
-Install this package and all its peerDependencies with the following command:
+Install this package and all its peerDependencies with the following commands:
 
 ```bash
-npx install-peerdeps --dev @coreyleelarson/eslint-config-default @coreyleelarson/eslint-config-react
+npx install-peerdeps --dev @coreyleelarson/eslint-config-default
+npm install-peerdeps --dev @coreyleelarson/eslint-config-react
 ```
 
 ## Configure
