@@ -3,5 +3,10 @@
     "jest": true
   },
   "extends": ["@coreyleelarson/default", "plugin:react/recommended"],
-  "plugins": ["react"]
+  "plugins": ["react"],
+  "settings": {
+    "react": {
+      "version": "999.999.999"
+    }
+  }
 }

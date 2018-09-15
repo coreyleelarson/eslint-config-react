@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-react",
+  "name": "@coreyleelarson/eslint-config-react",
   "version": "1.0.0",
   "author": "Corey Larson <coreyleelarson@gmail.com>",
   "license": "ISC",
